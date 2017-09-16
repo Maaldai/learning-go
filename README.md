@@ -1,2 +1,2 @@
 # learning-go
-learning Golang Programming Language
+learning and Understanding Go Programming Lanaguage.
